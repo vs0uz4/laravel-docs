@@ -29,7 +29,7 @@ Para exemplificar uma seleção de características básicas do Laravel, vamos c
 <a name="installation"></a>
 ## Instalação
 
-Obviamente, que primeiro você vai precisar de uma nova instalação do framework Laravel. Você pode usar o [Homestead virtual machine](/docs/{{version}}/homestead) ou um ambiente PHP local de sua escolha para executar o framework. Uma vez que seu ambiente local esteja pronto, você pode instalar o framework Laravel usando o Composer:
+Obviamente, que primeiro você vai precisar de uma nova instalação do framework Laravel. Você pode usar a máquina virtual [Homestead](/docs/{{version}}/homestead) ou um ambiente PHP local de sua escolha para executar o framework. Uma vez que seu ambiente local esteja pronto, você pode instalar o framework Laravel usando o Composer:
 
 	composer create-project laravel/laravel quickstart --prefer-dist
 
